@@ -26,6 +26,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management
 build_property._RazorSourceGeneratorDebug = 
 
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Appointments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Appointments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Appointments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Appointments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +56,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/LabAssistants/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/LabAssistants/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/Medical Laboratory Management/Medical Laboratory Management/Views/LabAssistants/Delete.cshtml]

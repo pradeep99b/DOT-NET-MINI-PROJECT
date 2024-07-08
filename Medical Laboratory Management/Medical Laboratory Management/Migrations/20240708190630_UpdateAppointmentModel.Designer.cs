@@ -4,6 +4,7 @@ using Medical_Laboratory_Management.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Medical_Laboratory_Management.Migrations
 {
     [DbContext(typeof(LabDbContext))]
-    partial class LabDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240708190630_UpdateAppointmentModel")]
+    partial class UpdateAppointmentModel
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -33,13 +36,10 @@ namespace Medical_Laboratory_Management.Migrations
                     b.Property<DateTime>("AppointmentDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<TimeSpan>("AppointmentTime")
-                        .HasColumnType("time");
+                    b.Property<DateTime>("AppointmentTime")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("DepartmentId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("LabAssistantId")
                         .HasColumnType("int");
 
                     b.Property<string>("Symptoms")
@@ -56,8 +56,6 @@ namespace Medical_Laboratory_Management.Migrations
                     b.HasKey("AppointmentId");
 
                     b.HasIndex("DepartmentId");
-
-                    b.HasIndex("LabAssistantId");
 
                     b.HasIndex("UserId1");
 
@@ -286,12 +284,6 @@ namespace Medical_Laboratory_Management.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Medical_Laboratory_Management.Models.LabAssistant", "LabAssistant")
-                        .WithMany()
-                        .HasForeignKey("LabAssistantId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.HasOne("Medical_Laboratory_Management.Models.User", "User")
                         .WithMany()
                         .HasForeignKey("UserId1")
@@ -299,8 +291,6 @@ namespace Medical_Laboratory_Management.Migrations
                         .IsRequired();
 
                     b.Navigation("Department");
-
-                    b.Navigation("LabAssistant");
 
                     b.Navigation("User");
                 });

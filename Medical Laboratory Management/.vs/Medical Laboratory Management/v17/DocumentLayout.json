@@ -3,35 +3,12 @@
   "WorkspaceRootPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MedicalLabManagement/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\views\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medical laboratory management\\medical laboratory management\\controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74060334-869F-4CC2-9862-6AA8777687C9}|Medical Laboratory Management\\Medical Laboratory Management.csproj|solutionrelative:medical laboratory management\\controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,105 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\wwwroot\\css\\site.css",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Medical Laboratory Management\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-08T17:37:34.383Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\Views\\Home\\Index.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Medical Laboratory Management\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T17:28:51.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\Controllers\\HomeController.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Medical Laboratory Management\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAYwC0AAAAAAAAA",
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Medical Laboratory Management\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Medical Laboratory Management\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T17:28:04.611Z",
+              "WhenOpened": "2024-07-08T20:07:38.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MedicalLabManagement/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-08T15:57:11.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\Controllers\\UsersController.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Medical Laboratory Management\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:03:02.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Views\\Users\\Create.cshtml",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\Views\\Users\\Create.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Views\\Users\\Create.cshtml",
-              "RelativeToolTip": "Medical Laboratory Management\\Views\\Users\\Create.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAmwD8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T14:40:27.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Program.cs",
               "RelativeDocumentMoniker": "Medical Laboratory Management\\Program.cs",
               "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Program.cs",
               "RelativeToolTip": "Medical Laboratory Management\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwDYAAAA1AAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwDIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T14:39:11.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LabAssistantsController.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\LabAssistantsController.cs",
-              "RelativeDocumentMoniker": "Medical Laboratory Management\\Controllers\\LabAssistantsController.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\Medical Laboratory Management\\Medical Laboratory Management\\Controllers\\LabAssistantsController.cs",
-              "RelativeToolTip": "Medical Laboratory Management\\Controllers\\LabAssistantsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:02:14.286Z"
+              "WhenOpened": "2024-07-08T19:59:59.129Z"
             }
           ]
         }

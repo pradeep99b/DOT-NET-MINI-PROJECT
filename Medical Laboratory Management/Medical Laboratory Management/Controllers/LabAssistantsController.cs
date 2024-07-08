@@ -25,6 +25,35 @@ namespace Medical_Laboratory_Management.Controllers
             var labDbContext = _context.LabAssistants.Include(l => l.Department);
             return View(await labDbContext.ToListAsync());
         }
+        //Dashboard
+        //public async Task<IActionResult> Dashboard()
+        //{
+        //    var labAssistantId = HttpContext.Session.GetInt32("LabAssistantId");
+        //    if (labAssistantId == null)
+        //    {
+        //        return RedirectToAction("Login", "Account");
+        //    }
+
+        //    var appointments = await _context.Appointments
+        //                                     .Include(a => a.User)
+        //                                     .Include(a => a.Department)
+        //                                     .Where(a => a.LabAssistantId == labAssistantId)
+        //                                     .ToListAsync();
+
+        //    return View(appointments);
+        //}
+
+        //public async Task<IActionResult> Dashboard()
+        //{
+        //    var labAssistantId = User.Identity.GetUserId(); // Retrieve the logged-in lab assistant's ID
+        //    var appointments = await _context.Appointments
+        //        .Include(a => a.User)
+        //        .Include(a => a.Department)
+        //        .Where(a => a.LabAssistantId == labAssistantId)
+        //        .ToListAsync();
+
+        //    return View(appointments);
+        //}
 
         // GET: LabAssistants/Details/5
         public async Task<IActionResult> Details(int? id)
@@ -48,26 +77,34 @@ namespace Medical_Laboratory_Management.Controllers
         // GET: LabAssistants/Create
         public IActionResult Create()
         {
-            ViewData["DepartmentId"] = new SelectList(_context.Departments, "DepartmentId", "DepartmentId");
+            ViewBag.Departments = new SelectList(_context.Departments, "DepartmentId", "DepartmentName");
             return View();
         }
 
-        // POST: LabAssistants/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("LabAssistantId,Name,Age,Gender,PhoneNumber,Email,Address,AadharCard,DepartmentId")] LabAssistant labAssistant)
+        public async Task<IActionResult> Create([Bind("UserId,DepartmentId,AppointmentDate,AppointmentTime,Symptoms")] Appointment appointment)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(labAssistant);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                var labAssistant = await _context.LabAssistants
+                    .FirstOrDefaultAsync(la => la.DepartmentId == appointment.DepartmentId);
+
+                if (labAssistant != null)
+                {
+                    appointment.LabAssistantId = labAssistant.LabAssistantId;
+                    _context.Add(appointment);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+
+                ModelState.AddModelError("", "No lab assistant available for the selected department.");
             }
-            ViewData["DepartmentId"] = new SelectList(_context.Departments, "DepartmentId", "DepartmentId", labAssistant.DepartmentId);
-            return View(labAssistant);
+
+            ViewBag.Departments = new SelectList(_context.Departments, "DepartmentId", "DepartmentName", appointment.DepartmentId);
+            return View(appointment);
         }
+
 
         // GET: LabAssistants/Edit/5
         public async Task<IActionResult> Edit(int? id)

@@ -10,6 +10,7 @@ namespace Medical_Laboratory_Management.Data
         public DbSet<User> Users { get; set; }
         public DbSet<City> Cities { get; set; }
         public DbSet<State> States { get; set; }
+        public DbSet<Appointment> Appointments { get; set; }
         public DbSet<LabAssistant> LabAssistants { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Test> Tests { get; set; }
@@ -48,5 +49,6 @@ namespace Medical_Laboratory_Management.Data
                 .HasForeignKey(t => t.DepartmentId)
                 .OnDelete(DeleteBehavior.Cascade);
         }
+        public DbSet<Medical_Laboratory_Management.Models.Appointment> Appointment { get; set; } = default!;
     }
 }
