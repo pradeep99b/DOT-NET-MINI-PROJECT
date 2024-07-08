@@ -1,0 +1,516 @@
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.csproj.AssemblyReference.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.GeneratedMSBuildEditorConfig.editorconfig
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.AssemblyInfoInputs.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.AssemblyInfo.cs
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.csproj.CoreCompileInputs.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.MvcApplicationPartsAssemblyInfo.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.RazorAssemblyInfo.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.RazorAssemblyInfo.cs
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\appsettings.Development.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\appsettings.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.staticwebassets.runtime.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.exe
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.deps.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.runtimeconfig.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.pdb
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Azure.Core.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Azure.Identity.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Humanizer.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.CodeDom.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Memory.Data.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.build.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.development.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.Medical Laboratory Management.Microsoft.AspNetCore.StaticWebAssets.props
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Medical Laboratory Management.props
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Medical Laboratory Management.props
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Medical Laboratory Management.props
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.pack.json
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\bundle\Medical Laboratory Management.styles.css
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\projectbundle\Medical Laboratory Management.bundle.scp.css
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical .A4E0F75A.Up2Date
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\refint\Medical Laboratory Management.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.pdb
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.genruntimeconfig.cache
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\ref\Medical Laboratory Management.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Build.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Common.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\CDAC\Module 8 - DotNet\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\appsettings.Development.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\appsettings.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.staticwebassets.runtime.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.exe
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.deps.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.runtimeconfig.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Medical Laboratory Management.pdb
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Azure.Core.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Azure.Identity.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Humanizer.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Build.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Mono.TextTemplating.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\Newtonsoft.Json.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Common.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Configuration.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Frameworks.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.LibraryModel.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Packaging.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.ProjectModel.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Protocol.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\NuGet.Versioning.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.CodeDom.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Convention.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Hosting.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.Runtime.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Composition.TypedParts.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Drawing.Common.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Memory.Data.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Runtime.Caching.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Security.Permissions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\af\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ar\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\az\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\bg\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\da\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\el\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fa\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\he\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hr\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hu\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\hy\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\id\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\is\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ku\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\lv\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\mt\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nb\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\nl\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ro\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sk\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sl\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sr\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\sv\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uk\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\vi\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.csproj.AssemblyReference.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.GeneratedMSBuildEditorConfig.editorconfig
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.AssemblyInfoInputs.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.AssemblyInfo.cs
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.csproj.CoreCompileInputs.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.MvcApplicationPartsAssemblyInfo.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.RazorAssemblyInfo.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.RazorAssemblyInfo.cs
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.build.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.development.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.Medical Laboratory Management.Microsoft.AspNetCore.StaticWebAssets.props
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Medical Laboratory Management.props
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Medical Laboratory Management.props
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Medical Laboratory Management.props
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\staticwebassets.pack.json
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\bundle\Medical Laboratory Management.styles.css
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\scopedcss\projectbundle\Medical Laboratory Management.bundle.scp.css
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical .A4E0F75A.Up2Date
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\refint\Medical Laboratory Management.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.pdb
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.genruntimeconfig.cache
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\ref\Medical Laboratory Management.dll
