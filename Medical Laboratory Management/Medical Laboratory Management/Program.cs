@@ -52,7 +52,7 @@ namespace Medical_Laboratory_Management
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Users}/{action=Create}/{id?}");
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
 

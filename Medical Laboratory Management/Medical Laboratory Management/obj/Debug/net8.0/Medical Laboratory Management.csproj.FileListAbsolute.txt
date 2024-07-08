@@ -514,3 +514,4 @@ P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medic
 P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.pdb
 P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.genruntimeconfig.cache
 P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\ref\Medical Laboratory Management.dll
+P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\Medical Laboratory Management\Medical Laboratory Management\obj\Debug\net8.0\Medical Laboratory Management.sourcelink.json

@@ -2,7 +2,47 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class="jumbotron text-center">
+    <h1 class="display-4">Welcome to MediLab</h1>
+    <p class="lead">Please select an option below:</p>
+</div>
+
+<div class="container">
+    <div class="row text-center">
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/images/user.png" class="card-img-top" alt="User Image">
+                <div class="card-body">
+                    <h3 class="card-title">User</h3>
+                    <p>
+                        <a class="btn btn-primary" href="@Url.Action("Create", "Users")">Register</a>
+                        <a class="btn btn-secondary" href="@Url.Action("Login", "Account")">Login</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/images/LabAssistantIcon.jpeg" class="card-img-top" alt="Lab Assistant Image">
+                <div class="card-body">
+                    <h3 class="card-title">Lab Assistant</h3>
+                    <p>
+                        <a class="btn btn-primary" href="@Url.Action("Register", "LabAssistants")">Register</a>
+                        <a class="btn btn-secondary" href="@Url.Action("Login", "Account")">Login</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <img src="~/images/manager.png" class="card-img-top" alt="Admin Image">
+                <div class="card-body">
+                    <h3 class="card-title">Admin</h3>
+                    <p>
+                        <a class="btn btn-secondary" href="@Url.Action("Login", "Account")">Login</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
