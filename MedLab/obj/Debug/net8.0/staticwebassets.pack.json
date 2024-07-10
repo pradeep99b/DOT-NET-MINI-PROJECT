@@ -1,379 +1,379 @@
 {
   "Files": [
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MedLab.bundle.scp.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MedLab.bundle.scp.css",
       "PackagePath": "staticwebassets\\MedLab.bundle.scp.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\bootstrap.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\responsive.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\site.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\style.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\style.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\css\\style.scss",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\style.scss",
       "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\favicon.ico",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\about-img.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\images\\about-img.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\contact-img.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\contact-img.jpg",
       "PackagePath": "staticwebassets\\images\\contact-img.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\dots.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\dots.png",
       "PackagePath": "staticwebassets\\images\\dots.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\images.jfif",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\images.jfif",
       "PackagePath": "staticwebassets\\images\\images.jfif"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\logo.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\medical-lab.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\medical-lab.jpg",
       "PackagePath": "staticwebassets\\images\\medical-lab.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\next.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\next.png",
       "PackagePath": "staticwebassets\\images\\next.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\post1.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\post1.jpg",
       "PackagePath": "staticwebassets\\images\\post1.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\post2.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\post2.jpg",
       "PackagePath": "staticwebassets\\images\\post2.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\post3.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\post3.jpg",
       "PackagePath": "staticwebassets\\images\\post3.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\post4.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\post4.png",
       "PackagePath": "staticwebassets\\images\\post4.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\prev.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\prev.png",
       "PackagePath": "staticwebassets\\images\\prev.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\slider-img.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\slider-img.jpg",
       "PackagePath": "staticwebassets\\images\\slider-img.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\t1.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\t1.png",
       "PackagePath": "staticwebassets\\images\\t1.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\t2.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\t2.png",
       "PackagePath": "staticwebassets\\images\\t2.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\t3.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\t3.png",
       "PackagePath": "staticwebassets\\images\\t3.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\t4.png",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\t4.png",
       "PackagePath": "staticwebassets\\images\\t4.png"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\team1.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\team1.jpg",
       "PackagePath": "staticwebassets\\images\\team1.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\team2.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\team2.jpg",
       "PackagePath": "staticwebassets\\images\\team2.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\team3.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\team3.jpg",
       "PackagePath": "staticwebassets\\images\\team3.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\images\\treatment-side-img.jpg",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\treatment-side-img.jpg",
       "PackagePath": "staticwebassets\\images\\treatment-side-img.jpg"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\js\\bootstrap.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\js\\custom.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\js\\site.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

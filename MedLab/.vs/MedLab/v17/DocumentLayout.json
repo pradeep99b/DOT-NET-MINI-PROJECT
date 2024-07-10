@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\",
+  "WorkspaceRootPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\10-07\\medlab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\10-07\\medlab\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\10-07\\medlab\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\10-07\\medlab\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\10-07\\medlab\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 103,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T08:10:17.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Constants\\Roles.cs",
-              "RelativeDocumentMoniker": "Constants\\Roles.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Constants\\Roles.cs",
-              "RelativeToolTip": "Constants\\Roles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T08:08:53.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DbSeeder.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Data\\DbSeeder.cs",
-              "RelativeDocumentMoniker": "Data\\DbSeeder.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Data\\DbSeeder.cs",
-              "RelativeToolTip": "Data\\DbSeeder.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAIAAAAAAAAA",
+              "Title": "LabAssistantsController.cs",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\LabAssistantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LabAssistantsController.cs",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\LabAssistantsController.cs",
+              "RelativeToolTip": "Controllers\\LabAssistantsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T07:49:27.863Z",
+              "WhenOpened": "2024-07-10T10:17:31.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAmAAAA",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T07:44:17.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T07:43:31.053Z",
+              "WhenOpened": "2024-07-10T10:16:42.322Z",
               "EditorCaption": ""
             }
           ]

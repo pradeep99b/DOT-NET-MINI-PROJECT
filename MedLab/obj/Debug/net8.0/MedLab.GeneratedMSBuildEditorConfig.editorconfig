@@ -17,363 +17,371 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MedLab
 build_property.RootNamespace = MedLab
-build_property.ProjectDir = P:\Naresh\Cdac\Module 8 DotNet\Codes\10-07\MedLab\
+build_property.ProjectDir = P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\MedLab\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = P:\Naresh\Cdac\Module 8 DotNet\Codes\10-07\MedLab
+build_property.MSBuildProjectDirectory = P:\Naresh\Cdac\Module 8 DotNet\Codes\Project\MedLab
 build_property._RazorSourceGeneratorDebug = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Lockout.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Login.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Logout.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/Register.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/Error.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/_ViewImports.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Areas/Identity/Pages/_ViewStart.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Appointments/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Appointments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Appointments/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Appointments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Appointments/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Appointments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Appointments/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Appointments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Appointments/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Appointments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Billings/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Billings/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Billings/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Billings/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Billings/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Billings/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Billings/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Billings/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Billings/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Billings/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbGluZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Cities/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Cities/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Cities/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Cities/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Cities/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Cities/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Cities/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Cities/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Cities/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Cities/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Departments/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Departments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Departments/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Departments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Departments/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Departments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Departments/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Departments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Departments/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Home/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Home/Privacy.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/LabAssistants/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/LabAssistants/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/LabAssistants/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/LabAssistants/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/LabAssistants/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/LabAssistants/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/LabAssistants/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/LabAssistants/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/LabAssistants/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/LabAssistants/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFiQXNzaXN0YW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Shared/Error.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Shared/_LoginPartial.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Shared/_ValidationScriptsPartial.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/States/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/States/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/States/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/States/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/States/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/States/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/States/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/States/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/States/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/States/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Tests/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Tests/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Tests/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Tests/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Tests/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Tests/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Tests/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Tests/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Tests/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Tests/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Users/Create.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Users/Delete.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Users/Details.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Users/Edit.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Users/Index.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/_ViewImports.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Users/UserOnly.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXNlck9ubHkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/_ViewStart.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[P:/Naresh/Cdac/Module 8 DotNet/Codes/10-07/MedLab/Views/Shared/_Layout.cshtml]
+[P:/Naresh/Cdac/Module 8 DotNet/Codes/Project/MedLab/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r5053tn7su

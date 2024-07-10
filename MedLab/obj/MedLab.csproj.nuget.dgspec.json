@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\MedLab.csproj": {}
+    "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\MedLab.csproj": {}
   },
   "projects": {
-    "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\MedLab.csproj": {
+    "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\MedLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\MedLab.csproj",
+        "projectUniqueName": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\MedLab.csproj",
         "projectName": "MedLab",
-        "projectPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\MedLab.csproj",
+        "projectPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\MedLab.csproj",
         "packagesPath": "C:\\Users\\priya\\.nuget\\packages\\",
-        "outputPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\10-07\\MedLab\\obj\\",
+        "outputPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\priya\\AppData\\Roaming\\NuGet\\NuGet.Config",

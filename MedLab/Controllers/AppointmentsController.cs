@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MedLab.Data;
 using MedLab.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MedLab.Controllers
 {
+    [Authorize(Roles = "User")]
     public class AppointmentsController : Controller
     {
         private readonly ApplicationDbContext _context;
