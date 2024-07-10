@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gjO5xEVdlqlwM4qEzyW7CoEZt1+t4xZSu4d0950zg74=",
+  "Hash": "806etLng+jNDQgTfSyP2PCGIb2LR46u6jSqTzDAxHho=",
   "Source": "MedLab",
   "BasePath": "_content/MedLab",
   "Mode": "Default",
@@ -1725,6 +1725,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\slider-img.jpg"
+    },
+    {
+      "Identity": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\States_of_india.jpeg",
+      "SourceId": "MedLab",
+      "SourceType": "Discovered",
+      "ContentRoot": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\",
+      "BasePath": "_content/MedLab",
+      "RelativePath": "images/States_of_india.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\States_of_india.jpeg"
     },
     {
       "Identity": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\t1.png",

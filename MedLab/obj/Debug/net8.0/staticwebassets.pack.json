@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\images\\Lab_reports.jpeg"
     },
     {
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\States_of_india.jpeg",
+      "PackagePath": "staticwebassets\\images\\States_of_india.jpeg"
+    },
+    {
       "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\images\\about-img.jpg"
     },

@@ -7,3 +7,74 @@
 <p>Welcome to the admin dashboard. Here you can manage users, appointments, tests, and other administrative tasks.</p>
 
 <!-- Add more admin-specific content and functionalities here -->
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/LabAssistant2.jpeg" class="card-img-top" alt="Lab Assistants">
+                <div class="card-body">
+                    <h5 class="card-title">Manage Lab Assistants</h5>
+                    <p class="card-text">Add, Remove or Update Information of Lab Assistants</p>
+                    <a href="@Url.Action("Index", "LabAssistants")" class="btn btn-primary">View Lab Assistant</a>
+                    <a href="@Url.Action("Create", "LabAssistants")" class="btn btn-primary">Create Lab Assistant</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/States_of_india.jpeg" class="card-img-top" alt="Track Samples">
+                <div class="card-body">
+                    <h5 class="card-title">State</h5>
+                    <p class="card-text">Add , Remove or update states of India.</p>
+                    <a href="@Url.Action("Index", "States")" class="btn btn-primary">View States</a>
+                    <a href="@Url.Action("Create", "States")" class="btn btn-primary">Create State</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/Lab_reports.jpeg" class="card-img-top" alt="Generate Reports">
+                <div class="card-body">
+                    <h5 class="card-title">Cities</h5>
+                    <p class="card-text">Manage Cities</p>
+                    <a href="@Url.Action("Index", "Cities")" class="btn btn-primary">View Cities</a>
+                    <a href="@Url.Action("Create", "Cities")" class="btn btn-primary">Create Cities</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/Lab_reports.jpeg" class="card-img-top" alt="Generate Reports">
+                <div class="card-body">
+                    <h5 class="card-title">Departments</h5>
+                    <p class="card-text">Manage Departments</p>
+                    <a href="@Url.Action("Index", "Departments")" class="btn btn-primary">View Departments</a>
+                    <a href="@Url.Action("Create", "Departments")" class="btn btn-primary">Create Departments</a>
+                </div>
+            </div>
+        </div>
+                <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/Lab_reports.jpeg" class="card-img-top" alt="Generate Reports">
+                <div class="card-body">
+                    <h5 class="card-title">Tests</h5>
+                    <p class="card-text">Manage Tests</p>
+                    <a href="@Url.Action("Index", "Tests")" class="btn btn-primary">View Tests</a>
+                    <a href="@Url.Action("Create", "Tests")" class="btn btn-primary">Create Tests</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="~/images/Lab_reports.jpeg" class="card-img-top" alt="Generate Reports">
+                <div class="card-body">
+                    <h5 class="card-title">User</h5>
+                    <p class="card-text">Manage User</p>
+                    <a href="@Url.Action("Index", "Users")" class="btn btn-primary">View User</a>
+                    <a href="@Url.Action("Create", "Users")" class="btn btn-primary">Create User</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
