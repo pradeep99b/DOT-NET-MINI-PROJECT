@@ -3,34 +3,28 @@
   "WorkspaceRootPath": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.City.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\views\\users\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\users\\userdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:controllers\\labassistantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Appointment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.State.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Test.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Department.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|p:\\naresh\\cdac\\module 8 dotnet\\codes\\project\\medlab\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DADEA419-ACEB-40BD-A605-7BEE1B43AE64}|MedLab.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 103,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T14:33:01.852Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -49,93 +56,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-10T11:55:35.194Z"
+              "Title": "dbo.City [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.City.sql",
+              "ToolTip": "dbo.City [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T14:32:08.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAE4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T11:52:43.142Z",
+              "DocumentIndex": 2,
+              "Title": "dbo.State [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.State.sql",
+              "ToolTip": "dbo.State [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T14:32:00.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Test [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Test.sql",
+              "ToolTip": "dbo.Test [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T11:37:41.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Department [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Department.sql",
+              "ToolTip": "dbo.Department [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-10T14:31:30.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "dbo.Test [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Test.sql",
-              "ToolTip": "dbo.Test [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-10T11:37:41.08Z"
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T14:01:08.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "dbo.Appointment [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_MedLab_8cb05276_6a36_4a97_a513_11b79a61b7e8/True/SqlTable/dbo.Appointment.sql",
-              "ToolTip": "dbo.Appointment [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-07-10T11:31:13.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAABAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T11:06:43.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserDashboard.cshtml",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Users\\UserDashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\Users\\UserDashboard.cshtml",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Views\\Users\\UserDashboard.cshtml",
-              "RelativeToolTip": "Views\\Users\\UserDashboard.cshtml",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAAABEAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T10:59:00.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LabAssistantsController.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\LabAssistantsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LabAssistantsController.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\LabAssistantsController.cs",
-              "RelativeToolTip": "Controllers\\LabAssistantsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:17:31.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T10:16:42.322Z"
+              "WhenOpened": "2024-07-10T14:00:58.24Z",
+              "EditorCaption": ""
             }
           ]
         }
