@@ -49,6 +49,18 @@
       "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
     },
     {
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\LabAssistant2.jpeg",
+      "PackagePath": "staticwebassets\\images\\LabAssistant2.jpeg"
+    },
+    {
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\LabAssistantIcon.jpeg",
+      "PackagePath": "staticwebassets\\images\\LabAssistantIcon.jpeg"
+    },
+    {
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\Lab_reports.jpeg",
+      "PackagePath": "staticwebassets\\images\\Lab_reports.jpeg"
+    },
+    {
       "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\about-img.jpg",
       "PackagePath": "staticwebassets\\images\\about-img.jpg"
     },
@@ -63,6 +75,10 @@
     {
       "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\images.jfif",
       "PackagePath": "staticwebassets\\images\\images.jfif"
+    },
+    {
+      "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\lab_sample.jpeg",
+      "PackagePath": "staticwebassets\\images\\lab_sample.jpeg"
     },
     {
       "Id": "P:\\Naresh\\Cdac\\Module 8 DotNet\\Codes\\Project\\MedLab\\wwwroot\\images\\logo.png",

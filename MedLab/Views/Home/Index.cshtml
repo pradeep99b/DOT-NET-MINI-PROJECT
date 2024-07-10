@@ -3,73 +3,89 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    @* <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a></p> *@
+    <h1 class="display-4">Welcome to MedLab</h1>
+    <p class="lead">Your partner in efficient laboratory management</p>
+    <hr class="my-4">
 
+    <!-- About Us Section -->
     <div class="card mt-5">
-        <div class="card-header">
+        <div class="card-header bg-primary text-white">
+            About Us
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Who We Are</h5>
+            <p class="card-text">
+                MedLab is dedicated to providing state-of-the-art laboratory management solutions.
+                Our mission is to enhance the efficiency and accuracy of lab operations through innovative technology and exceptional service.
+            </p>
+        </div>
+    </div>
+
+    <!-- Services Offered Section -->
+    <div class="card mt-5">
+        <div class="card-header bg-primary text-white">
+            Services Offered
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Our Services</h5>
+            <p class="card-text">
+                We offer a comprehensive range of services to meet the needs of modern laboratories:
+            </p>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">Appointment Scheduling</li>
+                <li class="list-group-item">Report Generation</li>
+                <li class="list-group-item">Lab Assistant Management</li>
+                <li class="list-group-item">Sample Tracking</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Main Card Section -->
+    <div class="card mt-5">
+        <div class="card-header bg-primary text-white">
             Medical Laboratory Management
         </div>
         <div class="card-body">
             <h5 class="card-title">Manage Your Lab Efficiently</h5>
             <p class="card-text">With our medical laboratory management system, you can easily manage lab assistants, track samples, generate reports, and much more.</p>
-            @* <a href="@Url.Action("Index", "LabAssistant")" class="btn btn-primary">Manage Lab Assistants</a>
-            <a href="@Url.Action("Index", "Sample")" class="btn btn-secondary">Track Samples</a> *@
+            <a href="@Url.Action("Index", "LabAssistants")" class="btn btn-primary">Manage Lab Assistants</a>
+            <a href="@Url.Action("Index", "Appointments")" class="btn btn-secondary">Track Appointments</a>
         </div>
     </div>
 
-    @* <div class="container mt-5">
+    <!-- Services Highlights Section -->
+    <div class="container mt-5">
         <div class="row">
-            <div class="col-md-3">
-                <div class="card">
-                    <img src="~/images/service1.jpg" class="card-img-top" alt="Service 1">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="~/images/LabAssistant2.jpeg" class="card-img-top" alt="Lab Assistants">
                     <div class="card-body">
-                        <h5 class="card-title">Service 1</h5>
-                        <p class="card-text">Description of Service 1.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <h5 class="card-title">Lab Assistants</h5>
+                        <p class="card-text">Manage lab assistants, their schedules, and their tasks effectively.</p>
+                        <a href="@Url.Action("Index", "LabAssistants")" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="card">
-                    <img src="~/images/service2.jpg" class="card-img-top" alt="Service 2">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="~/images/lab_sample.jpeg" class="card-img-top" alt="Track Samples">
                     <div class="card-body">
-                        <h5 class="card-title">Service 2</h5>
-                        <p class="card-text">Description of Service 2.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <h5 class="card-title">Track Samples</h5>
+                        <p class="card-text">Keep track of all the samples and their status in real-time.</p>
+                        <a href="@Url.Action("Index", "Samples")" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="card">
-                    <img src="~/images/service3.jpg" class="card-img-top" alt="Service 3">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="~/images/Lab_reports.jpeg" class="card-img-top" alt="Generate Reports">
                     <div class="card-body">
-                        <h5 class="card-title">Service 3</h5>
-                        <p class="card-text">Description of Service 3.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="card">
-                    <img src="~/images/service4.jpg" class="card-img-top" alt="Service 4">
-                    <div class="card-body">
-                        <h5 class="card-title">Service 4</h5>
-                        <p class="card-text">Description of Service 4.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="card">
-                    <img src="~/images/service1.jpg" class="card-img-top" alt="Service 1">
-                    <div class="card-body">
-                        <h5 class="card-title">Service 1</h5>
-                        <p class="card-text">Description of Service 1.</p>
-                        <a href="#" class="btn btn-primary">Learn More</a>
+                        <h5 class="card-title">Generate Reports</h5>
+                        <p class="card-text">Generate comprehensive reports to analyze the lab's performance.</p>
+                        <a href="@Url.Action("Index", "Reports")" class="btn btn-primary">Learn More</a>
                     </div>
                 </div>
             </div>
         </div>
-    </div> *@
+    </div>
 </div>
