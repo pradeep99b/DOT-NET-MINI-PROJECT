@@ -70,9 +70,6 @@ MedLab is a comprehensive Medical Laboratory Management System built with ASP.NE
 ## Contributing
 Contributions are welcome! Please create an issue or submit a pull request with your changes. 
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
-For any queries or feedback, please contact [your email address].
+For any queries or feedback, please contact nareshlokhande49@gmail.com
 
