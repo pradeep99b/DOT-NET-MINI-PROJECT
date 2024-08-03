@@ -71,5 +71,5 @@ MedLab is a comprehensive Medical Laboratory Management System built with ASP.NE
 Contributions are welcome! Please create an issue or submit a pull request with your changes. 
 
 ## Contact
-For any queries or feedback, please contact nareshlokhande49@gmail.com
+For any queries or feedback, please contact bahukhandi99p@gmail.com
 
